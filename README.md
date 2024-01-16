@@ -1,5 +1,6 @@
 # Perguntonildo
 Este projeto é um quizz que foi desenvolvido inspirado nos quizzes do BuzzFeed, aonde você responde as perguntas e descobre que tipo de cachorro você é 😁
+Link do projeto: https://perguntonildo.netlify.app
 
 Este projeto foi gerado com a versão 14.1.2 do [Angular CLI](https://github.com/angular/angular-cli).
 
